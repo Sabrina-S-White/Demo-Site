@@ -107,6 +107,8 @@ button {
 .secondary-box {
     display: flex;
     flex-direction: column;
+
+    justify-content: center;
 }
 
 .box-one {
